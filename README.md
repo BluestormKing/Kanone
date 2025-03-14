@@ -4,4 +4,4 @@ artillery game for two players made with freesimplegui an python
 pip install freesimplegui
 python3 game.py
 
-![Screenshot](Screenshot.png)
+![Screenshot](Screenshot1.png)
